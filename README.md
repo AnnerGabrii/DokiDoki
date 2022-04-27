@@ -26,7 +26,7 @@
 	   <center> <img src="https://1.bp.blogspot.com/-DdAhd6Q0x1g/WnKSUafM6WI/AAAAAAAAC6Q/1iCtrMJ3vs8T8sxPqxv-3JHl7pOJmKerQCLcBGAs/s1600/DDLC.jpg" usemap="#image-map"> </center>
 
 <map name="image-map">
-    <area target="_blank" alt="Sayori" title="Sayori" href="file:///C:/Users/Home/Downloads/DokiDoki/sayori.html" coords="297,429,123,115" shape="rect">
+    <area target="_blank" alt="Sayori" title="Sayori" href="https://annergabrii.github.io/Sayori/" coords="297,429,123,115" shape="rect">
     <area target="_blank" alt="Yuri" title="Yuri" href="file:///C:/Users/Home/Downloads/DokiDoki/yuri.html" coords="283,0,451,231" shape="0">
     <area target="_blank" alt="Monika" title="Monika" href="file:///C:/Users/Home/Downloads/DokiDoki/monika.html" coords="489,22,632,263" shape="0">
     <area target="_blank" alt="Natsuki" title="Natsuki" href="file:///C:/Users/Home/Downloads/DokiDoki/natsuki.html" coords="648,84,807,434" shape="0">
